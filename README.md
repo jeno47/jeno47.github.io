@@ -1,2 +1,2 @@
-# .github.io
-This page is currently being worked on!
+# This page is currently being worked on!
+Please wait until I do a thing :)
